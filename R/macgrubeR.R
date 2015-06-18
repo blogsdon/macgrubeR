@@ -5,5 +5,5 @@
 #' macgrubeR()
 macgrubeR <- function() {
   n <- length(macLines)
-  cat(unlist(macLines[sample(1:n, 1)]))
+  cat(paste(unlist(macLines[sample(1:n, 1)]), "\n"))
 }
