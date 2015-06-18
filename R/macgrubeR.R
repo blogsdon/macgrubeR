@@ -1,4 +1,4 @@
-#' Print a line from the feature film MacGruber
+#' Print a line from the script of the feature film MacGruber
 #'
 #' @return There is no return value
 #' @examples
