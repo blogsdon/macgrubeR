@@ -2,18 +2,15 @@
 % Please edit documentation in R/macgrubeR.R
 \name{macgrubeR}
 \alias{macgrubeR}
-\title{Print a line from the feature film MacGruber}
+\title{Print a line from the script of the feature film MacGruber}
 \usage{
 macgrubeR()
-}
-\arguments{
-\item{There}{are no function arguments}
 }
 \value{
 There is no return value
 }
 \description{
-Print a line from the feature film MacGruber
+Print a line from the script of the feature film MacGruber
 }
 \examples{
 macgrubeR()
